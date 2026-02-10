@@ -1,0 +1,2 @@
+# Human-Machine-Symbiosis-Prediction-A-Social-Survey-and-Random-Forest-Analysis
+A social survey and machine learning analysis project for predicting public attitudes toward human-machine symbiosis, based on 310 valid questionnaires and Random Forest algorithm (88.2% accuracy). Identifies key predictive factors of symbiosis attitudes and provides empirical evidence for human-centric AI development.
